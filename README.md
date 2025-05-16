@@ -87,6 +87,9 @@ I love turning data into insights and making complex things simple!
 <p align="center">
   <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Gradients.png" width="70%" />
 </p>
+<p align="center">
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
+</p>
 
 ---
 
