@@ -40,6 +40,13 @@
 
 ## 👨‍💻 About Me
 
+<p align="center">
+  I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.<br><br>
+  I specialize in tools like Excel, Power BI, Power Query, SQL, and Python to drive insights and support decision-making processes.<br><br>
+  I'm also interested in the integration of AI with Microsoft Office tools to create smarter, more efficient solutions.<br><br>
+  Always curious and constantly learning, I strive to use data to make a difference.
+</p>
+
 <table>
   <tr>
     <td valign="top" width="60%">
