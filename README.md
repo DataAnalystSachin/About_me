@@ -30,45 +30,30 @@
   </a>
 </p>
 
----
 
 <h3 align="center">🧠 About Me</h3>
 
-<!-- Flex layout with text on left and gif on right -->
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; max-width: 1000px; margin: auto; gap: 30px;">
+<p align="center">
+  I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.<br><br>
+  I specialize in tools like Excel, Power BI, Power Query, SQL, and Python to drive insights and support decision-making processes.<br><br>
+  I'm also interested in the integration of AI with Microsoft Office tools to create smarter, more efficient solutions.<br><br>
+  Always curious and constantly learning, I strive to use data to make a difference.
+</p>
 
-    <!-- Text Content -->
-    <div style="flex: 1; min-width: 280px; max-width: 600px; font-size: 16px; line-height: 1.6; text-align: justify;">
-      <p>
-        I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.
-        <br><br>
-        I specialize in tools like Excel, Power BI, Power Query, SQL, and Python to drive insights and support decision-making processes.
-        <br><br>
-        I'm also interested in the integration of AI with Microsoft Office tools to create smarter, more efficient solutions.
-        <br><br>
-        Always curious and constantly learning, I strive to use data to make a difference.
-      </p>
+<p align="left">
+  <img align="right" src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="300" />
 
-      <ul>
-        <li>📊 <b>Advanced Excel</b> for data manipulation and reporting</li>
-        <li>🔍 <b>Power Query</b> for data transformation</li>
-        <li>📈 <b>Power BI</b> for interactive dashboards</li>
-        <li>🧮 <b>SQL</b> for data extraction and queries</li>
-        <li>🐍 <b>Python</b> for data analysis and automation</li>
-        <li>🤖 <b>AI in MS Office</b> for enhanced productivity</li>
-      </ul>
+I’m a passionate and aspiring <b>Data Analyst</b> with a strong background in:
 
-      <p><i>I love turning data into insights and making complex things simple!</i></p>
-    </div>
+- 📊 <b>Advanced Excel</b> for data manipulation and reporting  
+- 🔍 <b>Power Query</b> for data transformation  
+- 📈 <b>Power BI</b> for interactive dashboards  
+- 🧮 <b>SQL</b> for data extraction and queries  
+- 🐍 <b>Python</b> for data analysis and automation  
+- 🤖 <b>AI in MS Office</b> for enhanced productivity  
 
-    <!-- Code GIF -->
-    <div style="flex: 1; min-width: 250px; max-width: 400px; text-align: center;">
-      <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" alt="Code GIF" style="width: 100%; border-radius: 12px;" />
-    </div>
-
-  </div>
-</div>
+I love turning data into insights and making complex things simple!
+</p>
 
 
 ## 🌐 Connect with Me
