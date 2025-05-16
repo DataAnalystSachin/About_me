@@ -1,66 +1,84 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Sachin+Jangir!;" />
-</h1>
-
+<!-- Rainbow GIF at the top -->
 <p align="center">
-  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" width="200" />
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
 </p>
 
-<h3 align="center">
-  🚀 <b>Aspiring Data Analyst</b> | Advanced Excel | Power Query | Power BI | SQL | Python | AI in MS Office 👨💻
-</h3>
+<h1 align="center">Hi 👋, I'm Sachin Jangir</h1>
 
----
-
-<h3 align="center">🔧 Tools & Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,python,sql,github,vscode&theme=light&perline=6" />
-</p>
-
----
-
-<h3 align="center">🧠 About Me</h3>
-<p align="center">
-  I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.<br><br>
-  I specialize in tools like Excel, Power BI, Power Query, SQL, and Python to drive insights and support decision-making processes.<br><br>
-  I'm also interested in the integration of AI with Microsoft Office tools to create smarter, more efficient solutions.<br><br>
-  Always curious and constantly learning, I strive to use data to make a difference.
-</p>
+<h3 align="center">🚀 Aspiring Data Analyst | 📊 Advanced Excel | 🔍 Power Query | 📈 Power BI | 🧮 SQL | 🐍 Python | 🤖 AI in MS Office</h3>
 
 <p align="center">
-  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="400" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataAnalystSachin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataAnalystSachin&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
-<h3 align="center">🌐 Portfolio</h3>
-<p align="center">
+  <a href="https://github.com/DataAnalystSachin">
+    <img src="https://img.shields.io/github/followers/DataAnalystSachin?label=Follow&style=social" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sachin67/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sachinjangir6758/?igsh=MTMyWd2anNmN3J0Mg%3D%3D#">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://dataanalystsachin.github.io/sachinjangir.com/">
-    <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Gradients.png" width="600" alt="Portfolio Screenshot" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
+## 👨‍💻 About Me
+
+I’m a passionate and aspiring **Data Analyst** with a strong background in:
+
+- 📊 **Advanced Excel** for data manipulation and reporting  
+- 🔍 **Power Query** for data transformation  
+- 📈 **Power BI** for interactive dashboards  
+- 🧮 **SQL** for data extraction and queries  
+- 🐍 **Python** for data analysis and automation  
+- 🤖 **AI in MS Office** for enhanced productivity
+
+I love turning data into insights and making complex things simple!
+
+---
+
+## 🌐 Connect with Me
+
+- 🔗 GitHub: [DataAnalystSachin](https://github.com/DataAnalystSachin)  
+- 💼 LinkedIn: [sachin67](https://www.linkedin.com/in/sachin67/)  
+- 📸 Instagram: [@sachinjangir6758](https://www.instagram.com/sachinjangir6758/?igsh=MTMyWd2anNmN3J0Mg%3D%3D#)  
+- 🌍 Portfolio Website: [sachinjangir.com](https://dataanalystsachin.github.io/sachinjangir.com/)
+
+---
+
+## 🔧 Tools & Technologies
+
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI in Office](https://img.shields.io/badge/-AI%20in%20MS%20Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 🎯 My Mission
+
+📌 To solve real-world problems using data  
+📌 To grow in the field of data analytics and business intelligence  
+📌 To keep learning and stay updated with the latest tools and technologies
+
+---
+
+<!-- Gradients Image -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin67/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sachinjangir6758/?igsh=MTMyWd2anNmN3J0Mg%3D%3D#" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://github.com/DataAnalystSachin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
-  </a>
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Gradients.png" width="70%" />
 </p>
 
 ---
+
+<!-- Code GIF -->
+<p align="center">
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="80%" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile! Let’s connect and grow together.**
+
