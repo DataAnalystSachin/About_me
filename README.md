@@ -87,7 +87,7 @@ I love turning data into insights and making complex things simple!
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/sales_dashboard.gif" width="300" alt="Sales Dashboard" />
+      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/23b57261d9b436497e6c22618323a5c762735b30/Final%20Dashboard.png" width="300" alt="Swiggy Instamart Sales Dashboard" />
       <br><br>
       <b>📊 Sales Dashboard</b><br>
       <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
