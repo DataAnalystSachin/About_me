@@ -6,13 +6,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Sachin+Jangir!;" />
 </h1>
-<h3 align="center">🧠 About Me</h3>
-<p align="center">
-  I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.<br><br>
-  I specialize in tools like Excel, Power BI, Power Query, SQL, and Python to drive insights and support decision-making processes.<br><br>
-  I'm also interested in the integration of AI with Microsoft Office tools to create smarter, more efficient solutions.<br><br>
-  Always curious and constantly learning, I strive to use data to make a difference.
-</p>
+
 
 <p align="center">
   <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
@@ -38,7 +32,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h3 align="center">🧠 About Me</h3>
 
 <p align="center">
   I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.<br><br>
