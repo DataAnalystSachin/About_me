@@ -3,43 +3,51 @@
   <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
 </p>
 
+<!-- Typing Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Sachin+Jangir!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Sachin+Jangir!" alt="Typing SVG" />
 </h1>
 
-
+<!-- Rainbow Divider -->
 <p align="center">
   <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
 </p>
 
+<!-- Subtitle -->
+<h3 align="center">
+  🚀 Aspiring Data Analyst | 📊 Advanced Excel | 🔍 Power Query | 📈 Power BI | 🧮 SQL | 🐍 Python | 🤖 AI in MS Office
+</h3>
 
-<h3 align="center">🚀 Aspiring Data Analyst | 📊 Advanced Excel | 🔍 Power Query | 📈 Power BI | 🧮 SQL | 🐍 Python | 🤖 AI in MS Office</h3>
-
+<!-- Social Icons -->
 <p align="center">
   <a href="https://github.com/DataAnalystSachin">
     <img src="https://img.shields.io/github/followers/DataAnalystSachin?label=Follow&style=social" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sachin67/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/sachinjangir6758/?igsh=MTMyWd2anNmN3J0Mg%3D%3D#">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://dataanalystsachin.github.io/sachinjangir.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages" alt="Portfolio" />
   </a>
 </p>
 
-
+<!-- About Me Section -->
 <h3 align="center">🧠 About Me</h3>
 
-<p align="center">
+<p align="center" style="max-width: 800px; margin: auto; line-height: 1.8;">
   I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.<br><br>
   I specialize in tools like Excel, Power BI, Power Query, SQL, and Python to drive insights and support decision-making processes.<br><br>
   I'm also interested in the integration of AI with Microsoft Office tools to create smarter, more efficient solutions.<br><br>
   Always curious and constantly learning, I strive to use data to make a difference.
 </p>
 
+<!-- Skills List with GIF -->
 <p align="left">
   <img align="right" src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="300" />
 
@@ -53,16 +61,6 @@ I’m a passionate and aspiring <b>Data Analyst</b> with a strong background in:
 - 🤖 <b>AI in MS Office</b> for enhanced productivity  
 
 I love turning data into insights and making complex things simple!
-</p>
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_in_Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
