@@ -1,58 +1,59 @@
-<!-- Rainbow Animation -->
+<!-- Rainbow GIF at the top -->
 <p align="center">
-  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" width="100%" />
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Sachin+Jangir!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Sachin+Jangir!;" />
 </h1>
 
+
 <p align="center">
-  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" width="100%" />
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
 </p>
 
-<h3 align="center">🚀 Aspiring Data Analyst | 📊 Excel & Power BI Expert | 🧠 AI in MS Office | 🐍 Python Enthusiast</h3>
 
----
-
-## 🔗 Connect with Me
+<h3 align="center">🚀 Aspiring Data Analyst | 📊 Advanced Excel | 🔍 Power Query | 📈 Power BI | 🧮 SQL | 🐍 Python | 🤖 AI in MS Office</h3>
 
 <p align="center">
   <a href="https://github.com/DataAnalystSachin">
-    <img src="https://img.shields.io/github/followers/DataAnalystSachin?label=GitHub&style=social" />
+    <img src="https://img.shields.io/github/followers/DataAnalystSachin?label=Follow&style=social" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sachin67/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/sachinjangir6758/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/sachinjangir6758/?igsh=MTMyWd2anNmN3J0Mg%3D%3D#">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://dataanalystsachin.github.io/sachinjangir.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages" alt="Portfolio" />
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
+<h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
+  I'm <b>Sachin Jangir</b> from Rajasthan, India. I'm passionate about exploring data, building dashboards, and automating workflows.<br><br>
+  I specialize in tools like Excel, Power BI, Power Query, SQL, and Python to drive insights and support decision-making processes.<br><br>
+  I'm also interested in the integration of AI with Microsoft Office tools to create smarter, more efficient solutions.<br><br>
+  Always curious and constantly learning, I strive to use data to make a difference.
 </p>
 
-Hi, I'm <b>Sachin Jangir</b> from Rajasthan, India – a passionate and analytical mind with a strong desire to turn data into meaningful insights.
+<p align="left">
+  <img align="right" src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="300" />
 
-I work with:
-- 📊 <b>Advanced Excel</b> for powerful data analysis and dashboards  
-- 🔍 <b>Power Query</b> to clean and transform messy data  
-- 📈 <b>Power BI</b> to visualize stories behind the numbers  
-- 🧮 <b>SQL</b> to extract and explore data  
-- 🐍 <b>Python</b> for automation and deep analysis  
-- 🤖 <b>AI in MS Office</b> to boost productivity  
+I’m a passionate and aspiring <b>Data Analyst</b> with a strong background in:
 
-> “Turning data into decisions.”
+- 📊 <b>Advanced Excel</b> for data manipulation and reporting  
+- 🔍 <b>Power Query</b> for data transformation  
+- 📈 <b>Power BI</b> for interactive dashboards  
+- 🧮 <b>SQL</b> for data extraction and queries  
+- 🐍 <b>Python</b> for data analysis and automation  
+- 🤖 <b>AI in MS Office</b> for enhanced productivity  
 
----
+I love turning data into insights and making complex things simple!
+</p>
 
 ## 🛠️ Tools & Technologies
 
