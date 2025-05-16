@@ -6,6 +6,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Sachin+Jangir!;" />
 </h1>
+<p align="center">
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/Rainbow.gif" alt="Rainbow GIF" width="100%" />
+</p>
 
 
 <h3 align="center">🚀 Aspiring Data Analyst | 📊 Advanced Excel | 🔍 Power Query | 📈 Power BI | 🧮 SQL | 🐍 Python | 🤖 AI in MS Office</h3>
