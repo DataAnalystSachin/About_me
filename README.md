@@ -80,6 +80,46 @@ I love turning data into insights and making complex things simple!
 
 ---
 
+<h3 align="center">📂 Projects & Dashboards</h3>
+
+<p align="center">Here are some of my recent dashboards and data analysis projects:</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/sales_dashboard.gif" width="300" alt="Sales Dashboard" />
+      <br><br>
+      <b>📊 Sales Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/hr_dashboard.png" width="300" alt="HR Dashboard" />
+      <br><br>
+      <b>👥 HR Analytics Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/finance_dashboard.gif" width="300" alt="Finance Dashboard" />
+      <br><br>
+      <b>💰 Finance Tracker</b><br>
+      <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/customer_dashboard.png" width="300" alt="Customer Dashboard" />
+      <br><br>
+      <b>🛒 Customer Insights</b><br>
+      <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
+    </td>
+  </tr>
+</table>
+<a href="https://your-live-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages" alt="Live Demo" />
+</a>
+
+---
+
 ## 🧠 Fun Facts
 
 - 🎯 I aim to automate boring tasks with Python and AI  
