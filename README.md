@@ -26,6 +26,10 @@
 
 ## 👨‍💻 About Me
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
 I’m a passionate and aspiring **Data Analyst** with a strong background in:
 
 - 📊 **Advanced Excel** for data manipulation and reporting  
@@ -36,6 +40,13 @@ I’m a passionate and aspiring **Data Analyst** with a strong background in:
 - 🤖 **AI in MS Office** for enhanced productivity
 
 I love turning data into insights and making complex things simple!
+
+</td>
+    <td align="center" width="40%">
+      <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,12 +84,4 @@ I love turning data into insights and making complex things simple!
 
 ---
 
-<!-- Code GIF -->
-<p align="center">
-  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="80%" />
-</p>
-
----
-
 ⭐ **Thanks for visiting my profile! Let’s connect and grow together.**
-
