@@ -62,7 +62,7 @@ I love turning data into insights and making complex things simple!
 
 ---
 
-## 🎯 My Mission
+## 🎯 My Goals
 
 - 💡 Solve real-world problems using data  
 - 📚 Continuously learn and upgrade skills  
@@ -90,7 +90,7 @@ I love turning data into insights and making complex things simple!
       <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/23b57261d9b436497e6c22618323a5c762735b30/Final%20Dashboard.png" width="300" alt="Swiggy Instamart Sales Dashboard" />
       <br><br>
       <b>📊Swiggy Instamart Sales Dashboard</b><br>
-      <a href="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard+">🔗 GitHub Repo</a>
+      <a href="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard">🔗 GitHub Repo</a>
     </td>
     <td align="center">
       <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/hr_dashboard.png" width="300" alt="HR Dashboard" />
