@@ -89,34 +89,26 @@ I love turning data into insights and making complex things simple!
     <td align="center">
       <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/23b57261d9b436497e6c22618323a5c762735b30/Final%20Dashboard.png" width="300" alt="Swiggy Instamart Sales Dashboard" />
       <br><br>
-      <b>📊Swiggy Instamart Sales Dashboard</b><br>
+      <b>📊 Swiggy Instamart Sales Dashboard</b><br>
       <a href="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard">🔗 GitHub Repo</a>
     </td>
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/hr_dashboard.png" width="300" alt="HR Dashboard" />
+      <img src="https://github.com/DataAnalystSachin/Ro-ko-dashboard/blob/e160e7c6c34046254948a50053b82814b4a6130d/Virat%20Kohli.png?raw=true" width="300" alt="Ro-Ko Dashboard" />
       <br><br>
-      <b>👥 HR Analytics Dashboard</b><br>
-      <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
+      <b>🏏 Ro-Ko Cricket Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/Ro-ko-dashboard">🔗 GitHub Repo</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/finance_dashboard.gif" width="300" alt="Finance Dashboard" />
+      <img src="https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car1.png?raw=true" width="300" alt="Car Sales Dashboard" />
       <br><br>
-      <b>💰 Finance Tracker</b><br>
-      <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/DataAnalystSachin/YourRepoName/blob/main/assets/customer_dashboard.png" width="300" alt="Customer Dashboard" />
-      <br><br>
-      <b>🛒 Customer Insights</b><br>
-      <a href="https://github.com/DataAnalystSachin/YourRepoName">🔗 GitHub Repo</a>
+      <b>🚗 Car Sales Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/Car-Sales-Dashboard">🔗 GitHub Repo</a>
     </td>
   </tr>
 </table>
-<a href="https://your-live-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages" alt="Live Demo" />
-</a>
+
 
 ---
 
