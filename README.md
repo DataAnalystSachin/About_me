@@ -86,55 +86,34 @@ I love turning data into insights and making complex things simple!
 
 <table align="center">
   <tr>
-    <!-- Zomato Dashboard -->
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/Zomato-dashboard/blob/main/Index.png?raw=true" width="300" alt="Zomato Dashboard Main" /><br>
-      <img src="https://github.com/DataAnalystSachin/Zomato-dashboard/blob/main/User%20Performance.png?raw=true" width="150" alt="User Performance" />
-      <img src="https://github.com/DataAnalystSachin/Zomato-dashboard/blob/main/Overview.png?raw=true" width="150" alt="Overview" />
-      <img src="https://github.com/DataAnalystSachin/Zomato-dashboard/blob/main/City%20Performance.png?raw=true" width="150" alt="City Performance" />
+      <img src="https://github.com/DataAnalystSachin/Zomato-dashboard/blob/79d5827db76a9e85501a1f0ecd5c0c7dcfa61ff0/Index.png?raw=true" width="300" alt="Zomato Dashboard" />
       <br><br>
       <b>🍽️ Zomato Dashboard</b><br>
       <a href="https://github.com/DataAnalystSachin/Zomato-dashboard">🔗 GitHub Repo</a>
     </td>
-
-    <!-- Swiggy Instamart Dashboard -->
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/main/Final%20Dashboard.png?raw=true" width="300" alt="Swiggy Instamart Dashboard Main" /><br>
-      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/main/Bar%20Chart.png?raw=true" width="150" alt="Bar Chart" />
-      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/main/Pie%20Chart.png?raw=true" width="150" alt="Pie Chart" />
-      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/main/Slicer.png?raw=true" width="150" alt="Slicer" />
+      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/23b57261d9b436497e6c22618323a5c762735b30/Final%20Dashboard.png" width="300" alt="Swiggy Instamart Sales Dashboard" />
       <br><br>
       <b>📊 Swiggy Instamart Sales Dashboard</b><br>
       <a href="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard">🔗 GitHub Repo</a>
     </td>
   </tr>
-
   <tr>
-    <!-- Ro-Ko Dashboard -->
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/Ro-ko-dashboard/blob/main/Virat%20Kohli.png?raw=true" width="300" alt="Ro-Ko Dashboard" /><br>
-      <img src="https://github.com/DataAnalystSachin/Ro-ko-dashboard/blob/main/Batsman%20Stats.png?raw=true" width="150" alt="Batsman Stats" />
-      <img src="https://github.com/DataAnalystSachin/Ro-ko-dashboard/blob/main/Team%20Performance.png?raw=true" width="150" alt="Team Performance" />
+      <img src="https://github.com/DataAnalystSachin/Ro-ko-dashboard/blob/e160e7c6c34046254948a50053b82814b4a6130d/Virat%20Kohli.png?raw=true" width="300" alt="Ro-Ko Dashboard" />
       <br><br>
       <b>🏏 Ro-Ko Cricket Dashboard</b><br>
       <a href="https://github.com/DataAnalystSachin/Ro-ko-dashboard">🔗 GitHub Repo</a>
     </td>
-
-    <!-- Car Sales Dashboard -->
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car1.png?raw=true" width="300" alt="Car Sales Dashboard Main" /><br>
-      <img src="https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car2.png?raw=true" width="150" alt="Car Dashboard 2" />
-      <img src="https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car3.png?raw=true" width="150" alt="Car Dashboard 3" />
-      <img src="https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car4.png?raw=true" width="150" alt="Car Dashboard 4" />
+      <img src="https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car1.png?raw=true" width="300" alt="Car Sales Dashboard" />
       <br><br>
       <b>🚗 Car Sales Dashboard</b><br>
       <a href="https://github.com/DataAnalystSachin/Car-Sales-Dashboard">🔗 GitHub Repo</a>
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
