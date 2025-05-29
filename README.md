@@ -89,14 +89,16 @@ I love turning data into insights and making complex things simple!
     <td align="center">
       <img src="https://github.com/DataAnalystSachin/Zomato-dashboard/blob/79d5827db76a9e85501a1f0ecd5c0c7dcfa61ff0/Index.png?raw=true" width="300" alt="Zomato Dashboard" />
       <br><br>
-      <b>🍽️ Zomato Dashboard</b><br>
-      <a href="https://github.com/DataAnalystSachin/Zomato-dashboard">🔗 GitHub Repo</a>
+      <b>🍽️ Zomato Sales Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/Zomato-dashboard">🔗 GitHub Repo</a><br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiOTg0MjcxY2EtYzdkMy00NWJmLWEwZmUtZDM5NzRmNTkzMTczIiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
     </td>
     <td align="center">
-      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/23b57261d9b436497e6c22618323a5c762735b30/Final%20Dashboard.png" width="300" alt="Swiggy Instamart Sales Dashboard" />
+      <img src="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard/blob/23b57261d9b436497e6c22618323a5c762735b30/Final%20Dashboard.png?raw=true" width="300" alt="Swiggy Instamart Dashboard" />
       <br><br>
-      <b>📊 Swiggy Instamart Sales Dashboard</b><br>
-      <a href="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard">🔗 GitHub Repo</a>
+      <b>🛒 Insta Mart Grocery Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/Swiggy-Instamart-Sales-Dashboard">🔗 GitHub Repo</a><br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiZTk4MWM1NjktM2ZjOC00ZmVlLWEzZWMtYzM3OGE4MGE4NmNjIiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -104,16 +106,35 @@ I love turning data into insights and making complex things simple!
       <img src="https://github.com/DataAnalystSachin/Ro-ko-dashboard/blob/e160e7c6c34046254948a50053b82814b4a6130d/Virat%20Kohli.png?raw=true" width="300" alt="Ro-Ko Dashboard" />
       <br><br>
       <b>🏏 Ro-Ko Cricket Dashboard</b><br>
-      <a href="https://github.com/DataAnalystSachin/Ro-ko-dashboard">🔗 GitHub Repo</a>
+      <a href="https://github.com/DataAnalystSachin/Ro-ko-dashboard">🔗 GitHub Repo</a><br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiMjE4MzYzYTUtNDU2MC00NjRiLWI5M2YtNTg5Y2QxNTlkOWVlIiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9&pageName=3900c94180a93aee62ce">🌐 Live Demo</a>
     </td>
     <td align="center">
       <img src="https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car1.png?raw=true" width="300" alt="Car Sales Dashboard" />
       <br><br>
       <b>🚗 Car Sales Dashboard</b><br>
-      <a href="https://github.com/DataAnalystSachin/Car-Sales-Dashboard">🔗 GitHub Repo</a>
+      <a href="https://github.com/DataAnalystSachin/Car-Sales-Dashboard">🔗 GitHub Repo</a><br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiOWZiMDBiYmYtMDM5Ni00NzlhLWJlYmMtNmI5Y2E2Nzk2NWJhIiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/DataAnalystSachin/Hospital-Dashboard/blob/b9c98ea0685581a8d7bc4a8d3b412c77691063ff/Home.png?raw=true" width="300" alt="Hospital Dashboard" />
+      <br><br>
+      <b>🏥 Hospital Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/Hospital-Dashboard">🔗 GitHub Repo</a><br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiNzU1NjI2OTEtNWM4Mi00YzUwLTlkZmYtN2NiYTNjM2U0N2U1IiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/DataAnalystSachin/Skill-Course-Dashboard/main/Skill-Course.png" width="300" alt="Skill Course Health Dashboard" />
+      <br><br>
+      <b>🧠 Skill Course Health Dashboard</b><br>
+      <a href="#">🔗 GitHub Repo (Coming Soon)</a><br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiOTE5NmFiM2QtNDExZS00YzI5LWFhZjktNDFjZTAyOTAzMGUwIiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
     </td>
   </tr>
 </table>
+
 
 ---
 
