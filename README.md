@@ -126,7 +126,7 @@ I love turning data into insights and making complex things simple!
       <a href="https://app.powerbi.com/view?r=eyJrIjoiNzU1NjI2OTEtNWM4Mi00YzUwLTlkZmYtN2NiYTNjM2U0N2U1IiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
     </td>
     <td align="center">
-      <img src="(https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Asif%20sir.png" width="300" alt="Skill Course Health Dashboard" />
+      <img src="https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Asif%20sir.png" width="300" alt="Skill Course Health Dashboard" />
       <br><br>
       <b>🧠 Skill Course Health Dashboard</b><br>
       <a href="#">🔗 GitHub Repo (Coming Soon)</a><br>
@@ -134,7 +134,6 @@ I love turning data into insights and making complex things simple!
     </td>
   </tr>
 </table>
-
 
 ---
 
