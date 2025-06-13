@@ -139,7 +139,7 @@ I love turning data into insights and making complex things simple!
       <img src="https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Asif%20sir.png" width="300" alt="Skill Course Health Dashboard" />
       <br><br>
       <b>🧠 Skill Course Health Dashboard</b><br>
-      <a href="#">🔗 GitHub Repo (Coming Soon)</a><br>
+      <a href="https://github.com/DataAnalystSachin/Health-Dashboard">🔗 GitHub Repo</a><br>
       <a href="https://app.powerbi.com/view?r=eyJrIjoiOTE5NmFiM2QtNDExZS00YzI5LWFhZjktNDFjZTAyOTAzMGUwIiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
     </td>
   </tr>
