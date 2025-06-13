@@ -45,8 +45,9 @@
 </p>
 
 <!-- Skills List with GIF -->
-<p align="left">
-  <img align="right" src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" width="300" />
+<div align="center">
+  <img src="https://github.com/DataAnalystSachin/About_me/blob/736e8c043d11d89ebf268aacbeb0fd5687f9415c/code.gif" style="max-width: 100%; height: auto;" width="300" />
+</div>
 
 I’m a passionate and aspiring <b>Data Analyst</b> with a strong background in:
 
