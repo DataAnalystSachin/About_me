@@ -126,6 +126,15 @@ I love turning data into insights and making complex things simple!
       <a href="https://app.powerbi.com/view?r=eyJrIjoiOWZiMDBiYmYtMDM5Ni00NzlhLWJlYmMtNmI5Y2E2Nzk2NWJhIiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
     </td>
     <td align="center">
+      <img src="https://github.com/DataAnalystSachin/Hospital-Dashboard/blob/b9c98ea0685581a8d7bc4a8d3b412c77691063ff/Home.png?raw=true" width="300" alt="Hospital Dashboard" />
+      <br><br>
+      <b>🏥 Hospital Dashboard</b><br>
+      <a href="https://github.com/DataAnalystSachin/Hospital-Dashboard">🔗 GitHub Repo</a><br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiNzU1NjI2OTEtNWM4Mi00YzUwLTlkZmYtN2NiYTNjM2U0N2U1IiwidCI6ImRiMzhiMzkwLTAyODMtNGQ1Yy04ODlhLTQxYjg2YjY0OWUyMSJ9">🌐 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/DataAnalystSachin/Health-Dashboard/108957082478bca3a779714de777235d5a42994e/Asif%20sir.png" width="300" alt="Skill Course Health Dashboard" />
       <br><br>
       <b>🧠 Skill Course Health Dashboard</b><br>
